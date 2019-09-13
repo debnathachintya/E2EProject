@@ -17,6 +17,7 @@ public class HomePage extends baseFile {
 		System.out.println("Test Project Achintya1");
 		System.out.println("Test Project Achintya2");
 		System.out.println("Test Project Achintya3");
+		System.out.println("Sunny Test");
 	}
 
 	@Test(dataProvider = "getData")
