@@ -24,6 +24,7 @@ public class ValidateTitle extends baseFile {
 		Assert.assertEquals(page_title, "Welcome: Mercury Tours");
 
 		Thread.sleep(3000);
+		System.out.println("Test Sunny");
 	}
 
 	@AfterTest
