@@ -14,11 +14,6 @@ public class HomePage extends baseFile {
 	@BeforeTest
 	public void initialize() throws IOException {
 		driver = initializeDriver();
-		System.out.println("Test Project Achintya1");
-		System.out.println("Test Project Achintya2");
-		System.out.println("Test Project Achintya3");
-		System.out.println("Sunny Test");
-		System.out.println("Git Demo Test");
 	}
 
 	@Test(dataProvider = "getData")
